@@ -1,11 +1,14 @@
 # Reels Generator
 
+![Example GIF](https://s6.ezgif.com/tmp/ezgif-6-a63a036ec2.gif)
+
 This is a simple Python CLI tool designed to download images from a list of Instagram profiles and create videos from the downloaded images.
 
 inspirations:
 - https://www.instagram.com/p/C8GLDFtAmgA/
 - https://www.instagram.com/p/C8fXN9Bsqty/
 - https://www.instagram.com/p/C9HXi3_onKI/
+
 ## Features
 
 - Download images from specified Instagram profiles.
@@ -32,7 +35,6 @@ inspirations:
     ```
 
 ## Usage
-
 
 ### Command Line Arguments
 
