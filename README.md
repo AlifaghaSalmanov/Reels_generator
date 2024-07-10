@@ -5,7 +5,7 @@ This is a simple Python CLI tool designed to download images from a list of Inst
 inspirations:
 - https://www.instagram.com/p/C8GLDFtAmgA/
 - https://www.instagram.com/p/C8fXN9Bsqty/
-
+- https://www.instagram.com/p/C9HXi3_onKI/
 ## Features
 
 - Download images from specified Instagram profiles.
