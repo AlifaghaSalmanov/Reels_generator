@@ -9,7 +9,7 @@ This is a simple Python CLI tool designed to download images from a list of Inst
 
 ## Requirements
 
-- Python 3.6+
+- Python 3.9
 - Required Python packages (can be installed via `requirements.txt`)
 
 ## Installation
