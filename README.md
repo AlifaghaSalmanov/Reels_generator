@@ -1,7 +1,8 @@
 # Reels Generator
 
 
-![output_2024-07-10_16-28-06-ezgif com-optimize](https://github.com/AlifaghaSalmanov/reels_generator/assets/111146766/3e533090-8c39-4c6e-9bd7-24e6567d9593)
+![output_2024-07-10_16-28-06-ezgif com-resize](https://github.com/AlifaghaSalmanov/reels_generator/assets/111146766/8eb93c73-e356-4490-8976-74b74b1c1826)
+
 
 
 This is a simple Python CLI tool designed to download images from a list of Instagram profiles and create videos from the downloaded images.
