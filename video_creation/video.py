@@ -52,7 +52,7 @@ class VideoEditor:
             self.prepare_image_clip(image_data[1])
             self.create_final_clip()
             
-            file_name = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
+            file_name = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
             
             # if video path doesn't exist, create it
             if not os.path.exists("videos"):
