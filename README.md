@@ -3,8 +3,8 @@
 This is a simple Python CLI tool designed to download images from a list of Instagram profiles and create videos from the downloaded images.
 
 inspirations:
-https://www.instagram.com/p/C8GLDFtAmgA/
-https://www.instagram.com/p/C8fXN9Bsqty/
+- https://www.instagram.com/p/C8GLDFtAmgA/
+- https://www.instagram.com/p/C8fXN9Bsqty/
 
 ## Features
 
