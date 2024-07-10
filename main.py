@@ -1,4 +1,3 @@
-# main.py
 import argparse
 from image import ProfileDownloader
 from video_creation.video import VideoEditor
@@ -34,4 +33,4 @@ downloader.download_images()
 
 # Example usage
 video_editor = VideoEditor()
-video_editor.generate_video(args.video_count)  # Assuming 1 is the video number you want to generate
+video_editor.generate_video(args.video_count) 
