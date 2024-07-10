@@ -1,4 +1,4 @@
-# Mellstroy Meme Generator
+# Mellstroy Reels Generator
 
 This is a simple Python CLI tool designed to download images from a list of Instagram profiles and create videos from the downloaded images.
 
@@ -17,8 +17,8 @@ This is a simple Python CLI tool designed to download images from a list of Inst
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/AlifaghaSalmanov/mellstroy_meme_generator.git
-    cd mellstroy_meme_generator
+    git clone https://github.com/AlifaghaSalmanov/mellstroy_reels_generator.git
+    cd mellstroy_reels_generator
     ```
 
 2. Install the required packages:
