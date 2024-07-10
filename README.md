@@ -29,7 +29,6 @@ This is a simple Python CLI tool designed to download images from a list of Inst
 
 ## Usage
 
-To use this tool, you need to have an Instagram account. Pass your Instagram username and password as arguments.
 
 ### Command Line Arguments
 
