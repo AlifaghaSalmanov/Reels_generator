@@ -5,11 +5,8 @@ from video_creation.video import VideoEditor
 # Create the parser
 parser = argparse.ArgumentParser(description="A simple Python CLI tool for basic arithmetic operations.")
 
-# Add arguments for operations and numbers
-# parser.add_argument("operation", choices=["add", "subtract", "multiply", "divide"], help="The operation to perform")
 
-# Adding optional argument -i for the count of images
-# parser.add_argument("-i", "--image_count", type=int, default=3, help="Number of images to download from each profile")
+
 parser.add_argument("-v", "--video_count", type=int, default=3, help="Number of videos to create from the downloaded images")
 
 parser.add_argument("-u", "--username", type=str, help="Instagram username")
